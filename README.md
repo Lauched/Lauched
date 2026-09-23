@@ -45,7 +45,6 @@ Também compartilho minha jornada de aprendizado e conhecimentos sobre **program
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 
 ---
----
 
 ## 🚀 Filosofia
 
