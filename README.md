@@ -45,14 +45,6 @@ Também compartilho minha jornada de aprendizado e conhecimentos sobre **program
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lauched&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauched&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🚀 Filosofia
