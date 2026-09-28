@@ -42,7 +42,6 @@ Também compartilho minha jornada de aprendizado e conhecimentos sobre **program
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 
 ---
 
