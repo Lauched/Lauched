@@ -8,6 +8,7 @@
 🎯 Tenho interesse em **software, Inteligência Artificial, Machine Learning e Cybersecurity**, sempre buscando aprender, construir projetos e evoluir profissionalmente.
 
 Também compartilho minha jornada de aprendizado e conhecimentos sobre **programação, tecnologia e desenvolvimento de sistemas**, documentando meus estudos e **projetos práticos** ao longo da minha formação.
+
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lauched)](https://github.com/stats-organization/github-stats-extended)
 
 ---
