@@ -33,7 +33,7 @@ Também compartilho minha jornada de aprendizado e conhecimentos sobre **program
 * 🔐 **Tenho interesse em Cybersecurity**
 * 🚀 **Transformo meus estudos em projetos práticos**
 
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lauched)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ## 🛠️ Tech Stack
