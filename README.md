@@ -9,7 +9,7 @@
 
 Também compartilho minha jornada de aprendizado e conhecimentos sobre **programação, tecnologia e desenvolvimento de sistemas**, documentando meus estudos e **projetos práticos** ao longo da minha formação.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lauched)](https://github.com/stats-organization/github-stats-dark)
+![Anuraghazra's GitHub stats](https://github-stats-extended.vercel.app/api?username=lauched&theme_light=light_github&theme_dark=dark_github)
 
 ---
 
